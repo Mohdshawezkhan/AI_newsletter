@@ -1,5 +1,4 @@
 crewai
-crewai.project
 datetime
 streamlit
 typing
