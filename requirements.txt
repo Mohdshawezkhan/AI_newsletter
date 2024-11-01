@@ -3,8 +3,6 @@ datetime
 streamlit
 typing
 langchain_core
-json
-os
 langchain_community
 crewai_tools
 exa_py
