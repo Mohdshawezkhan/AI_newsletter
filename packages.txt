@@ -1,2 +1,3 @@
-crew.py
-research.py
+crew
+research
+newsletter_gen
