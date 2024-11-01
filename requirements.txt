@@ -6,5 +6,5 @@ langchain_core
 langchain_community
 crewai_tools
 exa_py
-
+newsletter_gen
 
