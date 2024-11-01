@@ -1,0 +1,13 @@
+crewai
+crewai.project
+datetime
+streamlit
+typing
+langchain_core.agents
+json
+os
+langchain_community.llms
+crewai_tools
+exa_py
+
+
