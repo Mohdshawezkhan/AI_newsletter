@@ -9,7 +9,7 @@ import json
 # from langchain_google_genai import ChatGoogleGenerativeAI
 import os
 from langchain_community.llms import Ollama
-ollama_mixtral = Ollama(model="mixtral", base_url="")
+ollama_mixtral = Ollama(model="mixtral", base_url="https://11434-01jawwb3nm1m9k6nnvnmd453kq.cloudspaces.litng.ai")
 
 @CrewBase
 
