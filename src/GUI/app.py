@@ -1,5 +1,5 @@
 import streamlit as st
-from crew import NewsletterGenCrew
+import NewsletterGenCrew
 
 
 class NewsletterGenUI:
