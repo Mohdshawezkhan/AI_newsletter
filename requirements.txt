@@ -2,10 +2,10 @@ crewai
 datetime
 streamlit
 typing
-langchain_core.agents
+langchain_core
 json
 os
-langchain_community.llms
+langchain_community
 crewai_tools
 exa_py
 
